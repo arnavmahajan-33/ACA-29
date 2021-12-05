@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-image: linear-gradient( rgba(20, 221, 161, 0.719),rgba(96, 89, 185, 0.719),rgba(221, 184, 20, 0.4));
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+  border: 3px white solid;
+}
